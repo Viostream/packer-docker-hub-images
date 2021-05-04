@@ -1,4 +1,4 @@
-FROM hashicorp/packer:1.7.2
+FROM hashicorp/packer
 
 LABEL MAINTAINER="Stuart Auld <stuart.auld@viostream.com>"
 
