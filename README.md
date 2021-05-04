@@ -1,3 +1,3 @@
-# Viostream Terraform Docker Hub Images
+# Viostream Packer Docker Hub Images
 
-This repo builds our custom terraform image for us
+This repo builds our custom packer image for us
